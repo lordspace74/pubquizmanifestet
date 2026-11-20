@@ -84,6 +84,8 @@ En bra utslagsfråga är en **mängdfråga** som nästan ingen kan exakt, så at
 >
 > ✅ *Vilket år stod Strömsholms slott klart?* För svår som vanlig fråga (se [§1.1](#11-sikta-på-frågor-som-vissa-lag-kan-men-inte-alla)), men perfekt som utslagsfråga: ingen kan det exakta årtalet, men alla kan gissa, och närmast vinner.
 >
+> ✅ *Vilket datum öppnade Stockholms tunnelbana?* Bra lag kan troligen årtalet, men det exakta datumet är det få som kan, och det är just därför frågan avgör. Hur du snabbt kontrollerar vem som kom närmast står i [§5.6](#56-ha-en-plan-för-lika-poäng).
+>
 > ✅ *Musikquiz: Hur många gånger sjungs "blue" i "Blue (Da Ba Dee)" med Eiffel 65?*
 
 Hur och när utslagsfrågan används beskrivs i [§5.6](#56-ha-en-plan-för-lika-poäng).
