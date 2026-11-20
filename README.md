@@ -88,6 +88,20 @@ En bra utslagsfråga är en **mängdfråga** som nästan ingen kan exakt, så at
 
 Hur och när utslagsfrågan används beskrivs i [§5.6](#56-ha-en-plan-för-lika-poäng).
 
+#### §1.7. Återanvänd inte frågor.
+Att ställa samma fråga igen är både orättvist och fantasilöst. Lag som varit med förut får ett gratis försprång, och för dem blir det dessutom tråkigt att få samma fråga igen.
+
+> Jag har varit med om en quizmaster som flera gånger under kort tid frågade vad sångaren i Green Day heter. Bättre än så kan man begära! Samma band ger hur många nya frågor som helst:
+> - Vad heter bassisten?
+> - Vad heter trummisen?
+> - Vilket album i ordningen var genombrottet "Dookie"?
+> - I vilken sorts byggnad spelades musikvideon till "Basket Case" in?
+> - Vilket Green Day-album från 2004 blev senare en Broadwaymusikal?
+> - Från vilken amerikansk delstat kommer Green Day?
+> - Vad heter Green Days akustiska ballad från 1997 med undertiteln "Time of Your Life"?
+
+Har du ett ämne du gillar, var kreativ och hitta en ny vinkel (se [§1.5](#15-var-kreativ-med-frågorna-men-tydlig)).
+
 ---
 
 ## 2. Att bygga upp kvällen
@@ -261,6 +275,9 @@ Finurligt formulerat är okej, men medvetet vilseledande är det inte. Lagen är
 > ❌ *Hur många djur av varje sort tog Mose med sig på arken?*
 
 Svaret är "inga", eftersom det var Noa och inte Mose som byggde arken. De flesta lag hinner inte haka upp sig på namnet, utan svarar "två" utan att tänka efter. Det är kul en gång bland vänner, men på en pubquiz känns det mest som ett bakhåll: laget som svarade "två" visste ju svaret på det de trodde var frågan.
+
+#### A6. Utslagsfrågor från gamla quiz.
+Jag har varit med om en musikquiz som avgjordes genom att lagen i tur och ordning fick säga en siffra, och quizmastern ställde sedan helt sonika fråga nummer så-och-så från ett gammalt quiz. En riktigt dålig idé! Den som var med den gången har ett försprång, och det blir mer lotteri än kunskap. Förbered en ny utslagsfråga i stället (se [§1.6](#16-skriv-utslagsfrågor-som-verkligen-skiljer-lagen-åt) och [§5.6](#56-ha-en-plan-för-lika-poäng)).
 
 ---
 
