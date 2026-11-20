@@ -219,6 +219,13 @@ Det finns några sätt att avgöra lika poäng:
 
 Ha också några genomtänkta reservfrågor till hands, ifall lagen fortfarande står lika, eller två lag hamnar lika nära. De behövs aldrig, förrän de behövs. Hur en bra utslagsfråga ser ut beskrivs i [§1.6](#16-skriv-utslagsfrågor-som-verkligen-skiljer-lagen-åt).
 
+**Kontrollera vem som kom närmast.** Ett datum är en bra utslagsfråga, men det kan vara svårt att räkna ut i huvudet vilket lag som kom närmast. Ta hjälp:
+
+- **Några få lag:** [timeanddate.com](https://www.timeanddate.com/date/duration.html) eller [Omni Calculator](https://www.omnicalculator.com/everyday-life/number-days) räknar ut antalet dagar mellan två datum, direkt på mobilen.
+- **Många lag:** Lägg det rätta datumet i en cell i ett kalkylark och lagens svar i en kolumn. Formeln `=ABS(B2-$A$1)` visar hur många dagar varje lag ligger ifrån, och sedan sorterar du. Excel hanterar inte datum före år 1900, så för historiska datum fungerar Google Kalkylark bättre.
+
+Undvik exakta datum före 1753, då Sverige bytte till den gregorianska kalendern. Fråga hellre efter årtalet. Annars kan "rätt datum" bero på vilken kalender källan använder.
+
 ---
 
 ## 6. Lagen
