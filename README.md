@@ -52,6 +52,14 @@ Det är avgörande att en fråga inte går att tolka på flera sätt. Om två sv
 
 Om det finns flera versioner av något, säg vilken du menar: låtens radioversion eller albumversion, filmens bioversion eller director's cut, kommunen eller tätorten.
 
+Frågor om siffror är särskilt lätta att göra otydliga:
+
+> ❌ *Hur många bor i New York?* Menar du staden, tätortsområdet (*urban area*) eller storstadsområdet (*metropolitan area*)? Och enligt vilken räkning, från vilket år? Svaren kan skilja sig med många miljoner, och alla kan argumentera för att de har rätt.
+>
+> ✅ *Hur många invånare hade staden New York enligt den amerikanska folkräkningen 2020?*
+
+Ange gärna källan i frågan, som "enligt folkräkningen 2020" eller "enligt SCB". Då finns det bara ett rätt svar att rätta mot, och inga tveksamheter när svaren gås igenom.
+
 #### §1.3. Dubbelkolla dina fakta.
 Och kolla dem sedan en gång till mot en andra källa. Det finns alltid någon i lokalen som vet bättre, och de kommer att berätta det för dig.
 
