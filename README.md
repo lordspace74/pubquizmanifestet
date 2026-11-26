@@ -296,6 +296,30 @@ Svaret är "inga", eftersom det var Noa och inte Mose som byggde arken. De flest
 #### A6. Utslagsfrågor från gamla quiz.
 Jag har varit med om en musikquiz som avgjordes genom att lagen i tur och ordning fick säga en siffra, och quizmastern ställde sedan helt sonika fråga nummer så-och-så från ett gammalt quiz. En riktigt dålig idé! Den som var med den gången har ett försprång, och det blir mer lotteri än kunskap. Förbered en ny utslagsfråga i stället (se [§1.6](#16-skriv-utslagsfrågor-som-verkligen-skiljer-lagen-åt) och [§5.6](#56-ha-en-plan-för-lika-poäng)).
 
+#### A7. Frågor med svarsalternativ.
+Jag gillar personligen inte frågor med svarsalternativ. Med tre alternativ har även ett lag som inte har en aning en chans på tre att gissa rätt, och alternativen avslöjar dessutom ungefär var svaret ligger. När frågan läses upp kan alternativen också vara jobbiga att komma ihåg.
+
+> *Usch fy fan, Stockholms blodbad, det var en blodig historia. Hur många blev avrättade 7–9 november 1520?*
+> **1.** 30–50 st. **X.** 80–100 st. **2.** 300–400 st.
+
+Själva frågan är både intressant och rolig, men bättre hade varit att fråga hur många som avrättades och godkänna svar inom 20 procent. Då måste lagen faktiskt resonera sig fram till en siffra.
+
+Källorna är dock långt ifrån överens om antalet. Enligt bödeln Jörgen Homuths redogörelse avrättades 82 personer, men andra uppgifter spänner från omkring 50–60 upp till över 100. Ange därför källan i frågan (se [§1.2](#12-en-fråga-ett-svar)):
+
+> ✅ *Usch fy fan, Stockholms blodbad, det var en blodig historia. Hur många personer avrättades 7–9 november 1520, enligt bödeln Jörgen Homuths redogörelse? Svar inom 20 procent räknas som rätt.*
+> Svar: 82, så allt mellan 66 och 98 godkänns.
+
+**Ange felmarginalen i procent, inte som ett fast tal.** En annan fråga nyligen gällde hur många aktiva satelliter som finns i omlopp runt jorden, och för att få rätt behövde man ligga inom 2 000 från svaret, som var 12 000. Också en riktigt rolig fråga, men marginalen avslöjar svarets storleksordning: om man får ha fel med 2 000 måste svaret vara betydligt större än så. En marginal i procent ger ingen sådan ledtråd. Berätta marginalen innan lagen svarar (se [§4.2](#42-gå-igenom-reglerna-innan-du-börjar)).
+
+#### A8. Fråga efter en tidsperiod när svaret ligger på gränsen.
+Jag gillar inte heller frågor om tidsperioder när händelsen skedde precis i början eller slutet av perioden. Det gäller decennium och sekel, men lika gärna månad eller tid på dygnet, till exempel något som hände den sista mars eller strax efter midnatt. Den som vet ungefär när det hände straffas hårt för att vara lite fel, medan ett lag som bara chansar lika gärna kan ha tur.
+
+> ❌ *Under vilket decennium släpptes Pink Floyds "Another Brick in the Wall"?* Den släpptes i november 1979, så svaret är 70-talet. Men den toppade listorna en bit in på 1980, så många svarar 80-talet, trots att de egentligen vet ungefär när den kom.
+>
+> ❌ *Under vilket sekel dog drottning Victoria?* Hon dog i januari 1901, alltså på 1900-talet. Men hela den viktorianska eran förknippas med 1800-talet, så många svarar fel trots att de vet ungefär när hon levde.
+
+Själva gränsen kan också gå att diskutera: hör år 1900 till 1800-talet eller 1900-talet, och är klockan 00.00 natt eller morgon? Fråga hellre efter det exakta årtalet, datumet eller klockslaget, med en felmarginal, eller välj en händelse som ligger mitt i perioden.
+
 ---
 
 # Bilaga B: Tips till de tävlande
