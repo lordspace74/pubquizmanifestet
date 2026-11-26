@@ -296,6 +296,16 @@ Svaret är "inga", eftersom det var Noa och inte Mose som byggde arken. De flest
 #### A6. Utslagsfrågor från gamla quiz.
 Jag har varit med om en musikquiz som avgjordes genom att lagen i tur och ordning fick säga en siffra, och quizmastern ställde sedan helt sonika fråga nummer så-och-så från ett gammalt quiz. En riktigt dålig idé! Den som var med den gången har ett försprång, och det blir mer lotteri än kunskap. Förbered en ny utslagsfråga i stället (se [§1.6](#16-skriv-utslagsfrågor-som-verkligen-skiljer-lagen-åt) och [§5.6](#56-ha-en-plan-för-lika-poäng)).
 
+#### A7. Frågor med svarsalternativ.
+Jag gillar personligen inte frågor med svarsalternativ. Med tre alternativ har även ett lag som inte har en aning en chans på tre att gissa rätt, och alternativen avslöjar dessutom ungefär var svaret ligger.
+
+> *Usch fy fan, Stockholms blodbad, det var en blodig historia. Hur många blev avrättade 7–9 november 1520?*
+> **1.** 30–50 st. **X.** 80–100 st. **2.** 300–400 st.
+
+Själva frågan är både intressant och rolig, men bättre hade varit att fråga hur många som avrättades (82) och godkänna svar inom 20 procent, alltså 66–98. Då måste lagen faktiskt resonera sig fram till en siffra.
+
+**Ange felmarginalen i procent, inte som ett fast tal.** En annan fråga nyligen gällde hur många aktiva satelliter som finns i omlopp runt jorden, och för att få rätt behövde man ligga inom 2 000 från svaret. Också en riktigt rolig fråga, men marginalen avslöjar svarets storleksordning: om man får ha fel med 2 000 måste svaret vara betydligt större än så. (Jag fick ändå höra att ett lag svarade 1 200!) En marginal i procent ger ingen sådan ledtråd. Berätta marginalen innan lagen svarar (se [§4.2](#42-gå-igenom-reglerna-innan-du-börjar)).
+
 ---
 
 # Bilaga B: Tips till de tävlande
